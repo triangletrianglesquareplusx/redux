@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>{"Hello useContext!"}</p>
+        <p>Hello Redux1122!</p>
 
         <CardField people={names} />
         <p>Add your name please</p>
